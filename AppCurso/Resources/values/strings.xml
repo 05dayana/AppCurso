@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppCurso</string>
+    <string name="action_settings">Settings</string>
+	<string name="txt">Seleccione un módulo</string>
+	<string name="txtbtn">Ver clase</string>
+</resources>
